@@ -1,0 +1,15 @@
+C:\Users\niyme\Desktop\git\les2_s\bin\Debug\net6.0\les2_s.exe
+C:\Users\niyme\Desktop\git\les2_s\bin\Debug\net6.0\les2_s.deps.json
+C:\Users\niyme\Desktop\git\les2_s\bin\Debug\net6.0\les2_s.runtimeconfig.json
+C:\Users\niyme\Desktop\git\les2_s\bin\Debug\net6.0\les2_s.dll
+C:\Users\niyme\Desktop\git\les2_s\bin\Debug\net6.0\les2_s.pdb
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.csproj.AssemblyReference.cache
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.AssemblyInfoInputs.cache
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.AssemblyInfo.cs
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.csproj.CoreCompileInputs.cache
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.dll
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\refint\les2_s.dll
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.pdb
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\les2_s.genruntimeconfig.cache
+C:\Users\niyme\Desktop\git\les2_s\obj\Debug\net6.0\ref\les2_s.dll
